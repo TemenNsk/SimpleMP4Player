@@ -2,7 +2,7 @@
 
 This script will run a simple MP4 player. This player however, doesn't have any buttons. Whether it's Play, Pause or Stop button. Just a window with a player in it. Perfect for shady stuffs.
 
-[Screenshot](https://fallencdn.xyz/u/djlp3cbw.png)
+![Screenshot](https://fallencdn.xyz/u/djlp3cbw.png)
 
 ## Installation
 
